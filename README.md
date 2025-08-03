@@ -42,7 +42,7 @@ An opportunity to pen down my thoughts and works through learning and dedication
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certificationsa
+## Certifications
 <div>
 <img src="https://img.shields.io/badge/-CISM-003366?&style=for-the-badge&logo=ISACA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CEH-E60000?&style=for-the-badge&logo=ESET&logoColor=white" />
